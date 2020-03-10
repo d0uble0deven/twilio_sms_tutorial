@@ -1,5 +1,6 @@
 // Require modeules
 const express = require('express');
+require('dotenv').config()
 
 // Require Express app
 const app = express();
